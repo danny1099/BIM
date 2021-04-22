@@ -27,7 +27,7 @@
     <InstallUrl>https://raw.githubusercontent.com/danny1099/BIM/master/BIM/publish/</InstallUrl>
     <UpdateUrl>https://raw.githubusercontent.com/danny1099/BIM/master/BIM/publish/</UpdateUrl>
     <MinimumRequiredVersion>5.0.2.1</MinimumRequiredVersion>
-    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationRevision>4</ApplicationRevision>
     <ApplicationVersion>5.0.2.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
