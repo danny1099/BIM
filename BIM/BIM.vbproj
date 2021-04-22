@@ -23,13 +23,17 @@
     <UpdateIntervalUnits>Days</UpdateIntervalUnits>
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
-    <MapFileExtensions>true</MapFileExtensions>
+    <MapFileExtensions>false</MapFileExtensions>
     <InstallUrl>https://raw.githubusercontent.com/danny1099/BIM/master/BIM/publish/</InstallUrl>
     <UpdateUrl>https://raw.githubusercontent.com/danny1099/BIM/master/BIM/publish/</UpdateUrl>
+    <ProductName>BIM</ProductName>
+    <PublisherName>APDA</PublisherName>
+    <SuiteName>BIM</SuiteName>
     <MinimumRequiredVersion>5.0.2.1</MinimumRequiredVersion>
-    <ApplicationRevision>4</ApplicationRevision>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>5</ApplicationRevision>
     <ApplicationVersion>5.0.2.%2a</ApplicationVersion>
-    <UseApplicationTrust>false</UseApplicationTrust>
+    <UseApplicationTrust>true</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
