@@ -33,8 +33,8 @@
     <MinimumRequiredVersion>5.0.2.1</MinimumRequiredVersion>
     <WebPage>publish.htm</WebPage>
     <AutorunEnabled>true</AutorunEnabled>
-    <ApplicationRevision>13</ApplicationRevision>
-    <ApplicationVersion>5.0.2.13</ApplicationVersion>
+    <ApplicationRevision>14</ApplicationRevision>
+    <ApplicationVersion>5.0.2.14</ApplicationVersion>
     <UseApplicationTrust>true</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
@@ -200,6 +200,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="bim_ico.ico" />
+    <None Include="Resources\bim_ico.ico" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">

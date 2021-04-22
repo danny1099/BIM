@@ -23,13 +23,17 @@ Partial Class start_initial_home
         '
         'start_initial_home
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 16.0!)
-        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(298, 268)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(96.0!, 96.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi
+        Me.ClientSize = New System.Drawing.Size(752, 305)
+        Me.IconOptions.Image = Global.BIM.My.Resources.Resources.bim_ico
         Me.LookAndFeel.SkinName = "Office 2019 White"
         Me.LookAndFeel.UseDefaultLookAndFeel = False
         Me.Name = "start_initial_home"
-        Me.Text = "start_initial_home"
+        Me.Padding = New System.Windows.Forms.Padding(1)
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
+        Me.Text = "BIM"
+        Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
         Me.ResumeLayout(False)
 
     End Sub
